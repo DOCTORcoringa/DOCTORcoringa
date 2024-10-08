@@ -1,2 +1,0 @@
-apt update && apt upgrade git clone https://github.com/HappyBridge512/spammer 
-cd spammer pip install -r  python spam.py
