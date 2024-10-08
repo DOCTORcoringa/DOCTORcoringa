@@ -1,6 +1,6 @@
 Doctor coringa 
 ----
-Mokuton is a tool used to extract information from mobile numbers
+Doctor coringa lunático is a tool used to extract information from mobile numbers
 
 Results
 ----
