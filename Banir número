@@ -2,7 +2,7 @@ pkg install git
 
 pkg install python
 
-git clone https://github.com/yShiroZ/WhatsApp-Banned
+https://github.com/DOCTORcoringa/DOCTORcoringa
 
 cd WhatsApp-Banned
 
