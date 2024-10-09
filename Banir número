@@ -1,0 +1,9 @@
+pkg install git
+
+pkg install python
+
+git clone https://github.com/yShiroZ/WhatsApp-Banned
+
+cd WhatsApp-Banned
+
+python banned-shiro.py
